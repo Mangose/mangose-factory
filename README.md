@@ -4,6 +4,11 @@
 
 # Mangose Factory Tutorial
 
+## Example factory diagram
+
+<img src="https://github.com/Mangose/mangose-factory/blob/d33bfa81881d7e57f7e1dd3dcea1db4b618dca7a/assets/factory-diagram-example.png"/>
+
+
 ## Example factory code
 ```json
 {
